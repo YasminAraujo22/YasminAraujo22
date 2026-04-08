@@ -1,8 +1,9 @@
 # 👩🏻‍💻 Yasmin Araujo
-**`Desenvolvedora Python | Automação de Processos | Análise de Dados`**
+**`Automação de Processos | Análise de Dados | RH`**
 
-Me chamo Yasmin Araujo, tenho 21 anos e sou de São Paulo. Atualmente, estou cursando Ciência da Computação. Tenho grande interesse na área de tecnologia, especialmente em análise de dados e automação com Python, buscando sempre evoluir e aplicar esse conhecimento em projetos práticos.
-Gosto de transformar ideias em soluções que facilitem processos do dia a dia, unindo lógica, criatividade e propósito em tudo o que desenvolvo.
+Sou Yasmin Araujo, tenho 21 anos e vivo em São Paulo. Atualmente, curso o último semestre de Ciência da Computação e inicio minha especialização em Gestão de RH, unindo tecnologia e estratégia de pessoas.
+
+Minha atuação foca em transformar dados complexos em decisões claras através de People Analytics e automação com Python. Acredito no poder da lógica e da criatividade para desenvolver soluções que não apenas facilitem processos, mas tragam propósito e eficiência real ao dia a dia das organizações.
 
 <p align="left">
     </a> 
